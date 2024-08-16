@@ -1,1 +1,3 @@
-# Tableau-
+#### Uploading Tableau Projects | Advanced Analytics
+
+As a data scientist, I specialize in extracting valuable insights from complex datasets and transforming them into clear, actionable visualizations. My projects showcase advanced Tableau techniques, including built-in statistical capabilities and data science integrations with R, Python, and MATLAB. These projects highlight my expertise in reducing data cleansing time, applying visual design best practices, and leveraging Tableau's powerful features to present insights that are both informative and easy to understand. Through these advanced techniques, I aim to demonstrate my ability to turn data science results into impactful visual stories.
